@@ -1,0 +1,19 @@
+# DC Black Cars — dcblackcars.com
+# Redirects for Cloudflare Pages
+
+# Redirect www to non-www (or vice versa — set in Cloudflare dashboard)
+# These handle common alternate URL patterns
+
+/home /index.html 301
+/book /reservations.html 301
+/booking /reservations.html 301
+/reserve /reservations.html 301
+/airport /airport-transportation.html 301
+/corporate /corporate-car-service.html 301
+/aviation /private-aviation.html 301
+/fbo /private-aviation.html 301
+/wine /wine-tours.html 301
+/winery /wine-tours.html 301
+/vehicles /fleet.html 301
+/areas /service-areas.html 301
+/contact /reservations.html 301
